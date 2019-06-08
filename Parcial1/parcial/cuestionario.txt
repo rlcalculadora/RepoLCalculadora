@@ -1,0 +1,38 @@
+https://github.com/ramiro2021/cuestionario
+Grupo M conformado por :
+Vargas Juan Jose
+Murua Ramiro Ariel
+
+Proyecto a realizar:
+Atravez de un metodo de seleccion planteado en grupo escogimos realizar una calculadora cientifica la cual se encuentra en github(https://github.com/stivsk/calculadoraCientifica.git)la cual posee una cantidad de codigo minimo, para ser mas preciso solo posee las operaciones arimeticas basicas como,suma,resta ,multiplicacion y division.
+El entorno que utilizaremos para realizar nuestro proyecto es el IDE llamado NetBeans ya que nos permite seguir con al idea del creador del proyecto el cal tilizo el lenguaje JAVA con el paradigma de POO y su codigo fuente 
+Como meta a corto plazo intentaremos crear clases para cada una de las operaciones ya sean (aritmeticas,trigonometricas,etc)
+
+Objetivos
+*Nuestra calculadora debe poseer un codigo limpio es decir que sea completamente legible y comprensible para cualquier usuario que descarge nuestra calculadora
+*Aprender a trabajar en equipo,delegar y asignarnos tareas para el enrriquecimiento del proyecto
+*La calculadora debe poseer una interface completamente solida, sin ningu tipo de error tanto al maximizarla como al minimizarla
+*Limpiar el codigo original de la calculadora y agregarle nuevas funciones tales como:
+        *Funciones Aritmeticas
+	*Calcular raices
+	*Calcular potencias
+	*Funciones Trigonometricas
+	*Calculadora de Programador(binario,octal,decimal,hexadecimal)
+	*Encontrar Raices de funciones
+	*Encontrar el factorial de un numero entero n!
+	*Precision
+Division de tareas:
+Vargas Juan jose:
+*Calcular Potencias
+*Calculadora de programador
+*Encontrar Raices de funciones
+Ramiro Murua
+*Calcular Raices
+*Funciones Trigonometricas
+*Encontrar el Factorial de un numero entero n!
+*Interface
+Tarea en conjunto
+*Precision
+	
+
+
